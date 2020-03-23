@@ -1,0 +1,2 @@
+# myChess
+Potezne_Szachy
