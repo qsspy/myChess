@@ -1,0 +1,449 @@
+Agency FB : Agency FB
+Agency FB Pogrubiony : Agency FB
+Algerian : Algerian
+Arial : Arial
+Arial Black Normalny : Arial Black
+Arial Pogrubiony : Arial
+Arial Pogrubiona kursywa : Arial
+Arial Kursywa : Arial
+Arial Kursywa : Arial
+Arial Narrow : Arial Narrow
+Arial Narrow Kursywa : Arial Narrow
+Arial Narrow Pogrubiona kursywa : Arial Narrow
+Arial Narrow Pogrubiony : Arial Narrow
+Arial Pogrubiona kursywa : Arial
+Arial Pogrubiony : Arial
+Arial Rounded MT Bold : Arial Rounded MT Bold
+Arial Unicode MS : Arial Unicode MS
+Bahnschrift : Bahnschrift
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Dialog.plain : Dialog
+Baskerville Old Face : Baskerville Old Face
+Bauhaus 93 : Bauhaus 93
+Bell MT : Bell MT
+Bell MT Kursywa : Bell MT
+Bell MT Pogrubiony : Bell MT
+Berlin Sans FB : Berlin Sans FB
+Berlin Sans FB Demi Pogrubiony : Berlin Sans FB Demi
+Berlin Sans FB Pogrubiony : Berlin Sans FB
+Bernard MT Condensed : Bernard MT Condensed
+Blackadder ITC : Blackadder ITC
+Bodoni MT : Bodoni MT
+Bodoni MT Black : Bodoni MT Black
+Bodoni MT Black Kursywa : Bodoni MT Black
+Bodoni MT Condensed : Bodoni MT Condensed
+Bodoni MT Condensed Kursywa : Bodoni MT Condensed
+Bodoni MT Condensed Pogrubiona kursywa : Bodoni MT Condensed
+Bodoni MT Condensed Pogrubiony : Bodoni MT Condensed
+Bodoni MT Kursywa : Bodoni MT
+Bodoni MT Pogrubiona kursywa : Bodoni MT
+Bodoni MT Pogrubiony : Bodoni MT
+Bodoni MT Poster Compressed : Bodoni MT Poster Compressed
+Book Antiqua : Book Antiqua
+Book Antiqua Kursywa : Book Antiqua
+Book Antiqua Pogrubiona kursywa : Book Antiqua
+Book Antiqua Pogrubiony : Book Antiqua
+Bookman Old Style : Bookman Old Style
+Bookman Old Style Kursywa : Bookman Old Style
+Bookman Old Style Pogrubiona kursywa : Bookman Old Style
+Bookman Old Style Pogrubiony : Bookman Old Style
+Bookshelf Symbol 7 : Bookshelf Symbol 7
+Bowlby One SC Regular : Bowlby One SC
+Bradley Hand ITC : Bradley Hand ITC
+Britannic Bold : Britannic Bold
+Broadway : Broadway
+Brush Script MT Kursywa : Brush Script MT
+Bungee Inline : Bungee Inline
+Cabin Sketch Bold : Cabin Sketch
+Cabin Sketch Regular : Cabin Sketch
+Calibri : Calibri
+Calibri Bold : Calibri
+Calibri Bold Italic : Calibri
+Calibri Italic : Calibri
+Calibri Light : Calibri Light
+Calibri Light Italic : Calibri Light
+Californian FB : Californian FB
+Californian FB Kursywa : Californian FB
+Californian FB Pogrubiony : Californian FB
+Calisto MT : Calisto MT
+Calisto MT Kursywa : Calisto MT
+Calisto MT Pogrubiona kursywa : Calisto MT
+Calisto MT Pogrubiony : Calisto MT
+Cambria : Cambria
+Cambria Bold : Cambria
+Cambria Bold Italic : Cambria
+Cambria Italic : Cambria
+Cambria Math : Cambria Math
+Candara : Candara
+Candara Bold : Candara
+Candara Bold Italic : Candara
+Candara Italic : Candara
+Castellar : Castellar
+Centaur : Centaur
+Century : Century
+Century Gothic : Century Gothic
+Century Gothic Kursywa : Century Gothic
+Century Gothic Pogrubiona kursywa : Century Gothic
+Century Gothic Pogrubiony : Century Gothic
+Century Schoolbook : Century Schoolbook
+Century Schoolbook Kursywa : Century Schoolbook
+Century Schoolbook Pogrubiona kursywa : Century Schoolbook
+Century Schoolbook Pogrubiony : Century Schoolbook
+Chiller : Chiller
+Cinzel Black : Cinzel Black
+Colonna MT : Colonna MT
+Comic Sans MS : Comic Sans MS
+Comic Sans MS Kursywa : Comic Sans MS
+Comic Sans MS Pogrubiona kursywa : Comic Sans MS
+Comic Sans MS Pogrubiony : Comic Sans MS
+Consolas : Consolas
+Consolas Bold : Consolas
+Consolas Bold Italic : Consolas
+Consolas Italic : Consolas
+Constantia : Constantia
+Constantia Bold : Constantia
+Constantia Bold Italic : Constantia
+Constantia Italic : Constantia
+Cookie-Regular : Cookie
+Cooper Black : Cooper Black
+Copperplate Gothic Bold : Copperplate Gothic Bold
+Copperplate Gothic Light : Copperplate Gothic Light
+Corbel : Corbel
+Corbel Bold : Corbel
+Corbel Bold Italic : Corbel
+Corbel Italic : Corbel
+Courgette Regular : Courgette
+Courier New : Courier New
+Courier New Pogrubiony : Courier New
+Courier New Pogrubiona kursywa : Courier New
+Courier New Kursywa : Courier New
+Courier New Kursywa : Courier New
+Courier New Pogrubiona kursywa : Courier New
+Courier New Pogrubiony : Courier New
+Curlz MT : Curlz MT
+Dialog.bold : Dialog
+Dialog.bolditalic : Dialog
+Dialog.italic : Dialog
+Dialog.plain : Dialog
+DialogInput.bold : DialogInput
+DialogInput.bolditalic : DialogInput
+DialogInput.italic : DialogInput
+DialogInput.plain : DialogInput
+Doppio One Regular : Doppio One
+Ebrima : Ebrima
+Ebrima Bold : Ebrima
+Edwardian Script ITC : Edwardian Script ITC
+Elephant : Elephant
+Elephant Kursywa : Elephant
+Engravers MT : Engravers MT
+Eras Bold ITC : Eras Bold ITC
+Eras Demi ITC : Eras Demi ITC
+Eras Light ITC : Eras Light ITC
+Eras Medium ITC : Eras Medium ITC
+Euphorigenic : Euphorigenic
+Felix Titling : Felix Titling
+Footlight MT Light : Footlight MT Light
+Forte : Forte
+Franklin Gothic Book : Franklin Gothic Book
+Franklin Gothic Book Kursywa : Franklin Gothic Book
+Franklin Gothic Demi : Franklin Gothic Demi
+Franklin Gothic Demi Cond : Franklin Gothic Demi Cond
+Franklin Gothic Demi Kursywa : Franklin Gothic Demi
+Franklin Gothic Heavy : Franklin Gothic Heavy
+Franklin Gothic Heavy Kursywa : Franklin Gothic Heavy
+Franklin Gothic Medium : Franklin Gothic Medium
+Franklin Gothic Medium Cond : Franklin Gothic Medium Cond
+Franklin Gothic Medium Kursywa : Franklin Gothic Medium
+Freestyle Script : Freestyle Script
+French Script MT : French Script MT
+Fugaz One : Fugaz One
+Gabriola : Gabriola
+Gadugi : Gadugi
+Gadugi Bold : Gadugi
+Garamond : Garamond
+Garamond Kursywa : Garamond
+Garamond Pogrubiony : Garamond
+Georgia : Georgia
+Georgia Kursywa : Georgia
+Georgia Pogrubiona kursywa : Georgia
+Georgia Pogrubiony : Georgia
+Gigi : Gigi
+Gill Sans MT : Gill Sans MT
+Gill Sans MT Condensed : Gill Sans MT Condensed
+Gill Sans MT Ext Condensed Bold : Gill Sans MT Ext Condensed Bold
+Gill Sans MT Kursywa : Gill Sans MT
+Gill Sans MT Pogrubiona kursywa : Gill Sans MT
+Gill Sans MT Pogrubiony : Gill Sans MT
+Gill Sans Ultra Bold : Gill Sans Ultra Bold
+Gill Sans Ultra Bold Condensed : Gill Sans Ultra Bold Condensed
+Gloucester MT Extra Condensed : Gloucester MT Extra Condensed
+Goudy Old Style Kursywa : Goudy Old Style
+Goudy Old Style Kursywa : Goudy Old Style
+Goudy Old Style Kursywa : Goudy Old Style
+Goudy Stout : Goudy Stout
+Great Vibes : Great Vibes
+Haettenschweiler : Haettenschweiler
+Harlow Solid Italic : Harlow Solid Italic
+Harrington : Harrington
+High Tower Text : High Tower Text
+High Tower Text Kursywa : High Tower Text
+HoloLens MDL2 Assets : HoloLens MDL2 Assets
+Impact : Impact
+Imprint MT Shadow : Imprint MT Shadow
+Informal Roman : Informal Roman
+Ink Free : Ink Free
+Javanese Text : Javanese Text
+Jokerman : Jokerman
+Juice ITC : Juice ITC
+Kalam : Kalam
+Kalam Bold : Kalam
+Kalam Light : Kalam Light
+Kristen ITC : Kristen ITC
+Kunstler Script : Kunstler Script
+Leelawadee : Leelawadee
+Leelawadee Pogrubiony : Leelawadee
+Leelawadee UI : Leelawadee UI
+Leelawadee UI Pogrubiony : Leelawadee UI
+Leelawadee UI Semilight Normalny : Leelawadee UI Semilight
+Lemon Regular : Lemon
+Limelight Regular : Limelight
+Lucida Bright : Lucida Bright
+Lucida Bright Demibold : Lucida Bright
+Lucida Bright Demibold Italic : Lucida Bright
+Lucida Bright Italic : Lucida Bright
+Lucida Calligraphy Italic : Lucida Calligraphy
+Lucida Console : Lucida Console
+Lucida Fax Demibold : Lucida Fax
+Lucida Fax Demibold Italic : Lucida Fax
+Lucida Fax Italic : Lucida Fax
+Lucida Fax Regular : Lucida Fax
+Lucida Handwriting Italic : Lucida Handwriting
+Lucida Sans Demibold Italic : Lucida Sans
+Lucida Sans Demibold Roman : Lucida Sans
+Lucida Sans Italic : Lucida Sans
+Lucida Sans Regular : Lucida Sans
+Lucida Sans Typewriter Bold : Lucida Sans Typewriter
+Lucida Sans Typewriter Bold Oblique : Lucida Sans Typewriter
+Lucida Sans Typewriter Oblique : Lucida Sans Typewriter
+Lucida Sans Typewriter Regular : Lucida Sans Typewriter
+Lucida Sans Unicode : Lucida Sans Unicode
+MS Gothic : MS Gothic
+MS Outlook : MS Outlook
+MS PGothic : MS PGothic
+MS Reference Sans Serif : MS Reference Sans Serif
+MS Reference Specialty : MS Reference Specialty
+MS UI Gothic : MS UI Gothic
+MT Extra : MT Extra
+MV Boli : MV Boli
+Magneto Pogrubiony : Magneto
+Maiandra GD : Maiandra GD
+Malgun Gothic : Malgun Gothic
+Malgun Gothic Bold : Malgun Gothic
+Malgun Gothic Semilight : Malgun Gothic Semilight
+Marcellus SC : Marcellus SC
+Marlett : Marlett
+MathcadUniMathPrime : Mathcad UniMath Prime
+MathcadUniMathPrime-Italic : Mathcad UniMath Prime
+Matura MT Script Capitals : Matura MT Script Capitals
+Megrim : Megrim
+Microsoft Himalaya : Microsoft Himalaya
+Microsoft JhengHei : Microsoft JhengHei
+Microsoft JhengHei Light : Microsoft JhengHei Light
+Microsoft JhengHei Pogrubiony : Microsoft JhengHei
+Microsoft JhengHei UI : Microsoft JhengHei UI
+Microsoft JhengHei UI Light : Microsoft JhengHei UI Light
+Microsoft JhengHei UI Pogrubiony : Microsoft JhengHei UI
+Microsoft New Tai Lue : Microsoft New Tai Lue
+Microsoft New Tai Lue Bold : Microsoft New Tai Lue
+Microsoft PhagsPa : Microsoft PhagsPa
+Microsoft PhagsPa Bold : Microsoft PhagsPa
+Microsoft Sans Serif : Microsoft Sans Serif
+Microsoft Tai Le : Microsoft Tai Le
+Microsoft Tai Le Bold : Microsoft Tai Le
+Microsoft Uighur : Microsoft Uighur
+Microsoft Uighur Pogrubiony : Microsoft Uighur
+Microsoft YaHei : Microsoft YaHei
+Microsoft YaHei Light : Microsoft YaHei Light
+Microsoft YaHei Pogrubiony : Microsoft YaHei
+Microsoft YaHei UI : Microsoft YaHei UI
+Microsoft YaHei UI Light : Microsoft YaHei UI Light
+Microsoft YaHei UI Pogrubiony : Microsoft YaHei UI
+Microsoft Yi Baiti : Microsoft Yi Baiti
+MingLiU-ExtB : MingLiU-ExtB
+MingLiU_HKSCS-ExtB : MingLiU_HKSCS-ExtB
+Mistral : Mistral
+Modern No. 20 : Modern No. 20
+Mongolian Baiti : Mongolian Baiti
+Monospaced.bold : Monospaced
+Monospaced.bolditalic : Monospaced
+Monospaced.italic : Monospaced
+Monospaced.plain : Monospaced
+Monotype Corsiva : Monotype Corsiva
+MontserratSubrayada-Bold : Montserrat Subrayada
+Myanmar Text : Myanmar Text
+Myanmar Text Bold : Myanmar Text
+NSimSun : NSimSun
+Niagara Engraved : Niagara Engraved
+Niagara Solid : Niagara Solid
+Nirmala UI : Nirmala UI
+Nirmala UI Pogrubiony : Nirmala UI
+Nirmala UI Semilight : Nirmala UI Semilight
+Noto Sans : Noto Sans
+OCR A Extended : OCR A Extended
+Old English Text MT : Old English Text MT
+Onyx : Onyx
+Orbitron Bold : Orbitron
+PMingLiU-ExtB : PMingLiU-ExtB
+Palace Script MT : Palace Script MT
+Palatino Linotype : Palatino Linotype
+Palatino Linotype Kursywa : Palatino Linotype
+Palatino Linotype Pogrubiona kursywa : Palatino Linotype
+Palatino Linotype Pogrubiony : Palatino Linotype
+Papyrus : Papyrus
+Parchment : Parchment
+Permanent Marker : Permanent Marker
+Perpetua : Perpetua
+Perpetua Kursywa : Perpetua
+Perpetua Pogrubiona kursywa : Perpetua
+Perpetua Pogrubiony : Perpetua
+Perpetua Titling MT Light : Perpetua Titling MT
+Perpetua Titling MT Pogrubiony : Perpetua Titling MT
+Playball : Playball
+Playbill : Playbill
+Poor Richard : Poor Richard
+Pristina : Pristina
+Quicksand Bold : Quicksand
+Quicksand Light : Quicksand Light
+Quicksand Medium : Quicksand Medium
+Quicksand Regular : Quicksand
+Rage Italic : Rage Italic
+Ravie : Ravie
+Rockwell : Rockwell
+Rockwell Condensed : Rockwell Condensed
+Rockwell Condensed Pogrubiony : Rockwell Condensed
+Rockwell Extra Bold : Rockwell Extra Bold
+Rockwell Kursywa : Rockwell
+Rockwell Pogrubiona kursywa : Rockwell
+Rockwell Pogrubiony : Rockwell
+Russo One : Russo One
+SansSerif.bold : SansSerif
+SansSerif.bolditalic : SansSerif
+SansSerif.italic : SansSerif
+SansSerif.plain : SansSerif
+Script MT Bold : Script MT Bold
+Segoe MDL2 Assets : Segoe MDL2 Assets
+Segoe Print : Segoe Print
+Segoe Print Bold : Segoe Print
+Segoe Script : Segoe Script
+Segoe Script Bold : Segoe Script
+Segoe UI : Segoe UI
+Segoe UI Black : Segoe UI Black
+Segoe UI Black Italic : Segoe UI Black
+Segoe UI Emoji : Segoe UI Emoji
+Segoe UI Historic : Segoe UI Historic
+Segoe UI Kursywa : Segoe UI
+Segoe UI Light : Segoe UI Light
+Segoe UI Light Italic : Segoe UI Light
+Segoe UI Pogrubiona kursywa : Segoe UI
+Segoe UI Pogrubiony : Segoe UI
+Segoe UI Semibold : Segoe UI Semibold
+Segoe UI Semibold Italic : Segoe UI Semibold
+Segoe UI Semilight : Segoe UI Semilight
+Segoe UI Semilight Italic : Segoe UI Semilight
+Segoe UI Symbol : Segoe UI Symbol
+Serif.bold : Serif
+Serif.bolditalic : Serif
+Serif.italic : Serif
+Serif.plain : Serif
+Showcard Gothic : Showcard Gothic
+Shrikhand Regular : Shrikhand
+Sigmar One Regular : Sigmar One
+SimSun : SimSun
+SimSun-ExtB : SimSun-ExtB
+Sitka Banner : Sitka Banner
+Sitka Banner Bold : Sitka Banner
+Sitka Banner Bold Italic : Sitka Banner
+Sitka Banner Italic : Sitka Banner
+Sitka Display : Sitka Display
+Sitka Display Bold : Sitka Display
+Sitka Display Bold Italic : Sitka Display
+Sitka Display Italic : Sitka Display
+Sitka Heading : Sitka Heading
+Sitka Heading Bold : Sitka Heading
+Sitka Heading Bold Italic : Sitka Heading
+Sitka Heading Italic : Sitka Heading
+Sitka Small : Sitka Small
+Sitka Small Bold : Sitka Small
+Sitka Small Bold Italic : Sitka Small
+Sitka Small Italic : Sitka Small
+Sitka Subheading : Sitka Subheading
+Sitka Subheading Bold : Sitka Subheading
+Sitka Subheading Bold Italic : Sitka Subheading
+Sitka Subheading Italic : Sitka Subheading
+Sitka Text : Sitka Text
+Sitka Text Bold : Sitka Text
+Sitka Text Bold Italic : Sitka Text
+Sitka Text Italic : Sitka Text
+Snap ITC : Snap ITC
+Stencil : Stencil
+Sylfaen : Sylfaen
+Symbol : Symbol
+Tahoma : Tahoma
+Tahoma Pogrubiony : Tahoma
+Teko SemiBold : Teko SemiBold
+Tempus Sans ITC : Tempus Sans ITC
+Times New Roman : Times New Roman
+Times New Roman Pogrubiona : Times New Roman
+Times New Roman Pogrubiona kursywa : Times New Roman
+Times New Roman kursywa : Times New Roman
+Times New Roman Pogrubiona : Times New Roman
+Times New Roman Pogrubiona kursywa : Times New Roman
+Times New Roman kursywa : Times New Roman
+Trebuchet MS : Trebuchet MS
+Trebuchet MS Kursywa : Trebuchet MS
+Trebuchet MS Pogrubiona kursywa : Trebuchet MS
+Trebuchet MS Pogrubiony : Trebuchet MS
+Tw Cen MT : Tw Cen MT
+Tw Cen MT Condensed : Tw Cen MT Condensed
+Tw Cen MT Condensed Extra Bold : Tw Cen MT Condensed Extra Bold
+Tw Cen MT Condensed Pogrubiony : Tw Cen MT Condensed
+Tw Cen MT Kursywa : Tw Cen MT
+Tw Cen MT Pogrubiona kursywa : Tw Cen MT
+Tw Cen MT Pogrubiony : Tw Cen MT
+Ubuntu Mono : Ubuntu Mono
+Ubuntu Mono Bold : Ubuntu Mono
+Verdana : Verdana
+Verdana Kursywa : Verdana
+Verdana Pogrubiona kursywa : Verdana
+Verdana Pogrubiony : Verdana
+Viner Hand ITC : Viner Hand ITC
+Vivaldi Kursywa : Vivaldi
+Vladimir Script : Vladimir Script
+Webdings : Webdings
+Wide Latin : Wide Latin
+Wingdings : Wingdings
+Wingdings 2 : Wingdings 2
+Wingdings 3 : Wingdings 3
+Yellowtail : Yellowtail
+Yu Gothic Bold : Yu Gothic
+Yu Gothic Light : Yu Gothic Light
+Yu Gothic Medium : Yu Gothic Medium
+Yu Gothic Regular : Yu Gothic
+Yu Gothic UI Bold : Yu Gothic UI
+Yu Gothic UI Light : Yu Gothic UI Light
+Yu Gothic UI Regular : Yu Gothic UI
+Yu Gothic UI Semibold : Yu Gothic UI Semibold
+Yu Gothic UI Semilight : Yu Gothic UI Semilight
